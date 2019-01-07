@@ -15,3 +15,4 @@ This project uses only voice interaction with user to play music audio with mpv.
  - subprocess
  - pafy
  - pprint
+ - youtube-dl
